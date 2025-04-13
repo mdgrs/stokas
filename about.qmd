@@ -1,0 +1,33 @@
+---
+title: "About"
+about:
+  template: solana
+
+---
+
+Applied mathematician with expertise in cryptography, machine learning, and information
+theory. Over 5+ years of experience designing and deploying privacy-enhancing technologies,
+including integration with blockchain systems. Proven track record of research and
+implementation in multiparty computation, privacy-preserving ML, and secure system design.
+
+
+## Experience
+
+- Arcium | Senior R&D software developer | July 2024 - April 2025
+- Inpher | Senior machine learning engineer | 2020 - 2024
+- UPC | Data Scientist | 2018 - 2020
+
+## Education
+
+Ecole Polytechnique Federale de Lausanne (EPFL) | Lausanne, Switzerland
+PhD in Information Theory | 2010 - 2015
+
+Universite Paris-Sud XI Orsay | Paris, France
+Erasmus Mundus Masters in Algebra, Geometry and Number Theory | 2008-2010
+
+McGill University | Montreal, Canada
+Honours Mathematics | 2005-2008
+
+## More information
+
+You can find my CV [here](./cv_marc_desgroseilliers.pdf) or [email me](mailto:marc@stokas.be).
