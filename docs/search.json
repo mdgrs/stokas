@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Provably Probably Correct",
+    "section": "",
+    "text": "Stokas specializes in the following areas:\n\nCryptography\nStatistics and Probability\nMachine Learning\n\nIf you have a project that would benefit from expertise on these topics, contact me at marc@stokas.be"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Applied mathematician with expertise in cryptography, machine learning, and information theory. Over 5+ years of experience designing and deploying privacy-enhancing technologies, including integration with blockchain systems. Proven track record of research and implementation in multiparty computation, privacy-preserving ML, and secure system design."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\n\nArcium | Senior R&D software developer | July 2024 - April 2025\nInpher | Senior machine learning engineer | 2020 - 2024\nUPC | Data Scientist | 2018 - 2020"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nEcole Polytechnique Federale de Lausanne (EPFL) | Lausanne, Switzerland PhD in Information Theory | 2010 - 2015\nUniversite Paris-Sud XI Orsay | Paris, France Erasmus Mundus Masters in Algebra, Geometry and Number Theory | 2008-2010\nMcGill University | Montreal, Canada Honours Mathematics | 2005-2008"
+  },
+  {
+    "objectID": "about.html#more-information",
+    "href": "about.html#more-information",
+    "title": "About",
+    "section": "More information",
+    "text": "More information\nYou can find my CV here or email me."
+  }
+]
